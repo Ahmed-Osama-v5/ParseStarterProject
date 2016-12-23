@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:9:1-47:12
+	xmlns:android
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+	package
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:16:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:21:9-23:52
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:22:13-52
+	android:value
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:23:13-49
+meta-data#com.parse.CLIENT_KEY
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:24:9-26:56
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:25:13-48
+	android:value
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:26:13-53
+activity#com.parse.starter.MainActivity
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:34:27-74
+activity#com.parse.starter.Dashboard
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:37:19-44
+activity#com.parse.starter.Profile
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:38:19-42
+activity#com.parse.starter.Edit_Profile
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:39:19-47
+activity#com.parse.starter.Request
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:40:9-45
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:40:19-42
+activity#com.parse.starter.Train_Schedule
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:41:19-49
+activity#com.parse.starter.Transit
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:42:9-45
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:42:19-42
+activity#com.parse.starter.Delivering
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:43:9-48
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:43:19-45
+activity#com.parse.starter.Delivered
+ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml:44:19-44
+uses-sdk
+INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\GE_Apps\Customer\ParseStarterProject\src\main\AndroidManifest.xml

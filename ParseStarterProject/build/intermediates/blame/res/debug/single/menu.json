@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GE_Apps\\Customer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\GE_Apps\\Customer\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\GE_Apps\\Customer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "D:\\GE_Apps\\Customer\\ParseStarterProject\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "D:\\GE_Apps\\Customer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dashboard.xml",
+        "source": "D:\\GE_Apps\\Customer\\ParseStarterProject\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "D:\\GE_Apps\\Customer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit_profile.xml",
+        "source": "D:\\GE_Apps\\Customer\\ParseStarterProject\\src\\main\\res\\menu\\menu_edit_profile.xml"
+    }
+]

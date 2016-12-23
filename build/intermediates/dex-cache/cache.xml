@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ahmed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_9fabf42e1c079b2a66cdb122206cd311872a62b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmed\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0_4048da88a5265b4927f4135bab60ff1de02efec7.jar" />
+    </item>
+    <item
+        jar="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_4e8cbc1ed26b80f4328be4ca29323cbbe5acd274.jar" />
+    </item>
+    <item
+        jar="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_f3c4d6b4c942f0b1747968d22ccfb618fbe69569.jar" />
+    </item>
+    <item
+        jar="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_c775f714401b94185e7af67232dbf4d99d48da28.jar" />
+    </item>
+    <item
+        jar="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="301a670d6527e11ea0a8470f0d300d6417486282">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\instant-run-bootstrap_060e89355b937d1638dc341863b82e7d6f070a0a.jar" />
+    </item>
+    <item
+        jar="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c0dc3341b9bd8e496e0ff1f7ddcc98a2a44b85de">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\instant-run_9a98906c8356f0c53986db66769199b634f687dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmed\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\GE_Apps\Customer\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2cb74e1af687ab714538767f0e992b28a467b839.jar" />
+    </item>
+
+</items>

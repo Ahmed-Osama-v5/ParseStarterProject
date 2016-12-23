@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.starter.Request"
+    android:background="#363b51">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/typeEditText"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:background="@drawable/input_container"
+        android:hint="  Type"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/weightEditText"
+        android:layout_below="@+id/typeEditText"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/input_container"
+        android:layout_marginTop="20dp"
+        android:hint="  Weight"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deliverToEditText"
+        android:layout_below="@+id/weightEditText"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/input_container"
+        android:layout_marginTop="20dp"
+        android:hint="  Deliver to"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/destinationEditText"
+        android:layout_below="@+id/deliverToEditText"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/input_container"
+        android:layout_marginTop="20dp"
+        android:hint="  Destination"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/noteEditText"
+        android:layout_below="@+id/destinationEditText"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/input_container"
+        android:layout_marginTop="20dp"
+        android:hint="  Notes"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:id="@+id/okButton"
+        android:layout_below="@+id/noteEditText"
+        android:layout_alignRight="@+id/noteEditText"
+        android:layout_alignEnd="@+id/noteEditText"
+        android:layout_marginTop="75dp"
+        android:background="#6dc27f"
+        android:onClick="okFunc" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="cancel"
+        android:id="@+id/cancelButton"
+        android:layout_alignTop="@+id/okButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#6dc27f"
+        android:onClick="cancelFunc" />
+</RelativeLayout>
